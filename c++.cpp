@@ -26,6 +26,7 @@ int main()
 		}
 
 		cout << total << endl;
+		cout << total << endl;
 	}
 }
 
